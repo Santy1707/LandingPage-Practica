@@ -1,4 +1,4 @@
-import ProfilePic from "../Assets/john-doe-image.png";
+import ProfilePic from "../Assets/fotopersonal.png";
 import { AiFillStar } from "react-icons/ai";
 
 const Testimonial = () => {
@@ -25,7 +25,7 @@ const Testimonial = () => {
           <AiFillStar />
           <AiFillStar />
         </div>
-        <h2>John Doe</h2>
+        <h2>Santiago Vega</h2>
       </div>
     </div>
   );
